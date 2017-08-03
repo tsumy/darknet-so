@@ -1,0 +1,3 @@
+/media/x/d/darknet/darknet-yolo-so2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/x/d/darknet/darknet-yolo-so2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/x/d/darknet/darknet-yolo-so2/cmake-build-debug/CMakeFiles/darknet_modify.dir
